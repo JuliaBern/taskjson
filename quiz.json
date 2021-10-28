@@ -1,0 +1,151 @@
+{
+    "quiz": [
+        {
+            "question":"How many of the ancient Seven Wonders have survived to the present day?",
+            "options": [
+                {
+                    "1":"1"
+                },
+                {
+                    "2":"2"
+                },
+                {
+                    "3":"3"
+                },
+                {
+                    "4":"5"
+                }
+            ],
+            "answerId": "1",
+            "difficulty": "Easy",
+            "category": "History"
+        },
+
+        {
+            "question":"Which Celtic festival takes place at the same time as Halloween?",
+            "options": [
+                {
+                    "1":"Imbolc"
+                },
+                {
+                    "2":"Beltaine"
+                },
+                {
+                    "3":"Lughnasadh"
+                },
+                {
+                    "4":"Samhain"
+                }
+            ],
+            "answerId": "4",
+            "difficulty": "Normal",
+            "category": "Culture"
+        },
+
+        {
+            "question":"Which sport has never been featured in the Olympics?",
+            "options": [
+                {
+                    "1":"Skateboarding"
+                },
+                {
+                    "2":"Darts"
+                },
+                {
+                    "3":"Running deer shooting"
+                },
+                {
+                    "4":"Surfing"
+                }
+            ],
+            "answerId": "2",
+            "difficulty": "Normal",
+            "category": "Sports"
+        },
+
+        {
+            "question":"When was the first computer virus created?",
+            "options": [
+                {
+                    "1":"1843"
+                },
+                {
+                    "2":"1940"
+                },
+                {
+                    "3":"1971"
+                },
+                {
+                    "4":"1989"
+                }
+            ],
+            "answerId": "3",
+            "difficulty": "Normal",
+            "category": "History"
+        },
+
+        {
+            "question":"When was the earliest surviving valentine written?",
+            "options": [
+                {
+                    "1":"1415"
+                },
+                {
+                    "2":"1725"
+                },
+                {
+                    "3":"1889"
+                },
+                {
+                    "4":"1923"
+                }
+            ],
+            "answerId": "1",
+            "difficulty": "Hard",
+            "category": "Сulture"
+        },
+
+        {
+            "question":"Which material is not used for making Olympic medals?",
+            "options": [
+                {
+                    "1":"Gold"
+                },
+                {
+                    "2":"Silver"
+                },
+                {
+                    "3":"Bronze"
+                },
+                {
+                    "4":"Copper"
+                }
+            ],
+            "answerId": "4",
+            "difficulty": "Normal",
+            "category": "Sports"
+        },
+
+        {
+            "question":"Charles Darwin died in 1882. When did his pet tortoise Harriet die?",
+            "options": [
+                {
+                    "1":"1899"
+                },
+                {
+                    "2":"1941"
+                },
+                {
+                    "3":"1979"
+                },
+                {
+                    "4":"2006"
+                }
+            ],
+            "answerId": "4",
+            "difficulty": "Hard",
+            "category": "Animal"
+        }
+
+    ]
+}
