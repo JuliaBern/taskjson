@@ -121,7 +121,7 @@
                     "4":"Copper"
                 }
             ],
-            "answerId": "4",
+            "answerId": "3",
             "difficulty": "Normal",
             "category": "Sports"
         },
@@ -144,7 +144,7 @@
             ],
             "answerId": "4",
             "difficulty": "Hard",
-            "category": "Animal"
+            "category": "Animals"
         }
 
     ]
